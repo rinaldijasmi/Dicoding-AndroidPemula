@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Premier League</string>
+    <string name="club_name">Daftar Klub</string>
+    <string name="detail">Detail</string>
+    <string name="List">List</string>
+    <string name="Grid">Grid</string>
+    <string name="CardView">with CardView</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="about">About</string>
+
+</resources>
